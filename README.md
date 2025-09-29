@@ -1,6 +1,6 @@
 # 🚀 CryptoPlace
 
-A simple cryptocurrency tracking app built with React and Vite. View real-time crypto prices with interactive line charts.
+A simple cryptocurrency tracking app built with React and Vite. View real-time crypto prices.
 
 ## ✨ Features
 
