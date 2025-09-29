@@ -58,7 +58,9 @@ src/
 ## Photos
 ![Alt text of the image](https://github.com/utkarshrosario/CryptoPlace/blob/main/Cryptoplace%20Home.png)
 ![Alt text of the image](https://github.com/utkarshrosario/CryptoPlace/blob/main/Cryptoplace%20Table.png)
+![Alt text of the image](https://github.com/utkarshrosario/CryptoPlace/blob/main/Cryptoplace%20Search.png)
 ![Alt text of the image](https://github.com/utkarshrosario/CryptoPlace/blob/main/Cryptoplace%20Coin%20Details.png)
+
 
 ## 🤝 Contributing
 
