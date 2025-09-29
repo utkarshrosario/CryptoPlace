@@ -55,6 +55,11 @@ src/
 3. **View Details** - Click on any cryptocurrency to see detailed information
 4. **Search** - Use the search bar to find specific cryptocurrencies
 
+## Photos
+![Alt text of the image](https://github.com/utkarshrosario/CryptoPlace/blob/main/Cryptoplace%20Home.png)
+![Alt text of the image](https://github.com/utkarshrosario/CryptoPlace/blob/main/Cryptoplace%20Table.png)
+![Alt text of the image](https://github.com/utkarshrosario/CryptoPlace/blob/main/Cryptoplace%20Coin%20Details.png)
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
